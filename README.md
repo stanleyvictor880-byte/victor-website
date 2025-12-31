@@ -42,7 +42,7 @@ Tip: pin these repos to your profile so visitors can find them instantly.
 ---
 
 ## 📈 Highlights & Wins
-- Launched X product features that increased [metric] by Y%
+- Launched X product features that increased [metric] by 80%
 - Contributed to open source projects with N+ merged PRs
 - Published technical articles that reached [audience/reads]
 - Experience at: [Company A], [Company B] (optional)
@@ -64,7 +64,7 @@ Tip: pin these repos to your profile so visitors can find them instantly.
 ---
 
 ## 📫 Get in touch
-- Email: hello@yourdomain.com
+- Email: stanleyvictor880@gmail.com
 - Website: https://your-website.example
 - LinkedIn: https://www.linkedin.com/in/yourprofile
 - Twitter/X: https://twitter.com/yourhandle
